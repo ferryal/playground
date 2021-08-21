@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Checkbox, Flex, Text } from '@chakra-ui/react';
-import { OptionAnswer } from '~/interfaces/question';
+import { OptionAnswer } from '../../interfaces/question';
 
 export type AnswerStatus = 'correct' | 'incorrect';
 
