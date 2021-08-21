@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": "question-1",
+      "question": "Tesla has combined many sales centers with service centers. Find the correct statements about Tesla and Ellon Musk:",
+      "option_answers": [
+        {
+          "id": "0cd32646-fc3d-11eb-9a03-0242ac130003",
+          "title": "There always onsite technicians to support custmers"
+        },
+        {
+          "id": "0cd32704-fc3d-11eb-9a03-0242ac130003",
+          "title": "They believe that opening service center in a new area correspondens with increased customer value and demand"
+        },
+        {
+          "id": "0cd327ae-fc3d-11eb-9a03-0242ac130003",
+          "title": "Tesla employee what's it calls Tesla Rangers - mobile technicians who can service vehicle at your house."
+        }
+      ],
+      "correct_answers": ["0cd32646-fc3d-11eb-9a03-0242ac130003", "0cd32704-fc3d-11eb-9a03-0242ac130003"],
+      "wrong_answers": ["0cd32646-fc3d-11eb-9a03-0242ac130003"],
+      "error_message": "Not quite. You need to distinguish customer needs.",
+      "success_message": "Well done! No onsite technician is required at all. The Model S can wirelessly upload data so technicians can view and fix problems online without ever needing to physically touch the car, leading to an entirely different customer experience and relashionship."
+    },
+    {
+      "id": "question-2",
+      "question": "Tesla has combined many sales centers with service centers. Find the correct statements about Tesla and Ellon Musk:",
+      "image": "https://akcdn.detik.net.id/visual/2021/02/01/tesla-model-x.jpeg?w=650",
+      "option_answers": [
+        {
+          "id": "0cd32646-fc3d-11eb-9a03-0242ac130003",
+          "title": "There always onsite technicians to support custmers"
+        },
+        {
+          "id": "0cd32704-fc3d-11eb-9a03-0242ac130003",
+          "title": "They believe that opening service center in a new area correspondens with increased customer value and demand"
+        },
+        {
+          "id": "0cd327ae-fc3d-11eb-9a03-0242ac130003",
+          "title": "Tesla employee what's it calls Tesla Rangers - mobile technicians who can service vehicle at your house."
+        }
+      ],
+      "correct_answers": ["0cd32646-fc3d-11eb-9a03-0242ac130003", "0cd32704-fc3d-11eb-9a03-0242ac130003"],
+      "wrong_answers": ["0cd32646-fc3d-11eb-9a03-0242ac130003"],
+      "error_message": "Not quite. You need to distinguish customer needs.",
+      "success_message": "Well done! No onsite technician is required at all. The Model S can wirelessly upload data so technicians can view and fix problems online without ever needing to physically touch the car, leading to an entirely different customer experience and relashionship."
+    }
+  ]
+}
